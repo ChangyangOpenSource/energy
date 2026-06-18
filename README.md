@@ -2,7 +2,7 @@
 
 如果您想使用功能更完善的能碳管理平台系统，请联系以下企业微信！ 如果您想基于能碳系统进行定制开发，我们提供有偿定制服务支持！ 其他合作模式不限，欢迎来撩！
 
-![企业微信二维码](assets/contact-qrcode.png)
+<img src="assets/contact-qrcode.png" alt="企业微信二维码" width="200" height="300">
 
 ## 体验账号
 
@@ -1573,5 +1573,4 @@ https://changyangdt\.com/energyView/
 |Scope 1/2/3|\-|温室气体核算的三个范围：直接排放、间接能源排放、其他间接排放|
 |kgce|Kilogram Coal Equivalent|千克标准煤，能源消耗的统一计量单位|
 |GWP|Global Warming Potential|全球变暖潜能值，衡量温室气体对全球变暖的影响程度|
-
 
