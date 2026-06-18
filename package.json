@@ -1,0 +1,24 @@
+{
+  "name": "qiankun-jeecg",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "install": "npm-run-all install:* ",
+    "install:main": "cd energy-system-view && npm install",
+    "install:sub01": "cd sub-app-vue3 && npm install ",
+    "start": "npm-run-all start:* ",
+    "start:main": "cd energy-view && start cmd /k npm run serve",
+    "start:sub01": "cd jeecg-app-1 && start cmd /k npm run serve",
+    "build": "npm-run-all build:* ",
+    "build:main": "cd ant-design-jeecg-vue && npm run build",
+    "build:sub01": "cd jeecg-app-1 && npm run build"
+  },
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  },
+  "dependencies": {
+    "element-plus": "^2.13.0",
+    "moment": "^2.30.1",
+    "qiankun": "^2.10.16"
+  }
+}

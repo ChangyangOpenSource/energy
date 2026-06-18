@@ -1,0 +1,39 @@
+/**
+ * 管理外部字体，批量注册
+ */
+
+@font-face {
+    font-family: 'YSBTH';
+    src: url('./modules/YSBTH.TTF') format('truetype');
+}
+
+
+@font-face {
+    font-family: "DIN_BLACK";
+    src: url('./modules/DIN-BLACK.OTF') format('truetype');
+}
+
+@font-face {
+    font-family: "DIN_BOLD";
+    src: url('./modules/DIN-BOLD.OTF') format('truetype');
+}
+
+@font-face {
+    font-family: "DIN_CONDENSED_BOLD";
+    src: url('./modules/DIN-CONDENSED-BOLD.TTF') format('truetype');
+}
+
+@font-face {
+    font-family: "DIN_LIGHT";
+    src: url('./modules/DIN-LIGHT.OTF') format('truetype');
+}
+
+@font-face {
+    font-family: "DIN_MEDIUM";
+    src: url('./modules/DIN-MEDIUM.OTF') format('truetype');
+}
+
+@font-face {
+    font-family: "DINCond_Medium";
+    src: url('./modules/DINCond-Medium.otf') format('truetype');
+}
