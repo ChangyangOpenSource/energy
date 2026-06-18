@@ -6,7 +6,7 @@
 
 ## 体验账号
 
-- **体验地址**：[点击跳转到双碳平台](https://changyangdt.com/energyView/)
+- **体验地址**：[点击跳转到能源管理平台](https://changyangdt.com/energyView/)
 - **账号**：test01
 - **密码**：1234qwer!
 
