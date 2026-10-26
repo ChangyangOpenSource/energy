@@ -7,8 +7,8 @@
 ## 体验账号
 
 - **体验地址**：[点击跳转到能源管理平台](https://changyangdt.com/energyView/)
-- **账号**：test01
-- **密码**：1234qwer!
+- **账号**：changyang123
+- **密码**：Erty1234!
 
 ---
 
