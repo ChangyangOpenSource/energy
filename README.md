@@ -1,24 +1,13 @@
-# 联系我们
 
-如果您想使用功能更完善的能碳管理平台系统，请联系以下企业微信！ 如果您想基于能碳系统进行定制开发，我们提供有偿定制服务支持！ 其他合作模式不限，欢迎来撩！
+<h1 align="center">
+  <a href="https://github.com/ChangyangOpenSource/carbon-energy-management" target="_blank">碳能智云</a>
+  
+[![License](https://img.shields.io/badge/license-Apache%202-green.svg)](https://www.apache.org/licenses/LICENSE-2.0)
+![java version](https://img.shields.io/badge/JAVA-1.8+-green.svg)
+![git star](https://img.shields.io/github/stars/ChangyangOpenSource/carbon-energy-management.svg)
+</h1>
 
-<img src="assets/contact-qrcode.png" alt="企业微信二维码" width="200" height="300">
-
-## 体验账号
-
-- **体验地址**：[点击跳转到能源管理平台](https://cloud.carbonyze.com/#/login?redirect=/dashboard/workbench)
-
----
-
-# 碳能智云\-开源文档介绍
-
-# 碳能智云
-
-
-
-> 面向工业园区、制造企业、集团企业和双碳服务商的一站式能碳管理平台，覆盖能源采集、用能分析、碳核算、产品碳足迹、供应链碳协同、碳资产与碳中和管理等业务场景。
->
->
+面向工业园区、制造企业、集团企业和双碳服务商的一站式能碳管理平台，覆盖能源采集、用能分析、碳核算、产品碳足迹、供应链碳协同、碳资产与碳中和管理等业务场景。
 
 ---
 
@@ -40,6 +29,34 @@
 - **工业园区**：园区能源与碳排放管理
 - **绿色工厂**：绿色工厂建设与申报
 - **零碳工厂**：零碳工厂建设与申报
+
+## 目录
+
+- [项目介绍](#项目介绍)
+  - [体验地址](#体验地址)
+- [软件架构](#软件架构)
+  - [技术架构](#技术架构)
+- [快速入门](#快速入门)
+- [功能展示](#功能展示)
+- [更新日志](#更新日志)
+- [许可证](#许可证)
+- [联系我们](#联系我们)
+
+
+
+
+# 联系我们
+
+如果您想使用功能更完善的能碳管理平台系统，请联系以下企业微信！ 如果您想基于能碳系统进行定制开发，我们提供有偿定制服务支持！ 其他合作模式不限，欢迎来撩！
+
+<img src="assets/contact-qrcode.png" alt="企业微信二维码" width="200" height="300">
+
+## 体验账号
+
+- **体验地址**：[点击跳转到能源管理平台](https://cloud.carbonyze.com/#/login?redirect=/dashboard/workbench)
+
+---
+
 
 ## 产品简介
 
