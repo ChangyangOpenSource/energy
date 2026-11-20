@@ -6,9 +6,7 @@
 
 ## 体验账号
 
-- **体验地址**：[点击跳转到能源管理平台](https://changyangdt.com/energyView/)
-- **账号**：changyang123
-- **密码**：Erty1234!
+- **体验地址**：[点击跳转到能源管理平台](https://cloud.carbonyze.com/#/login?redirect=/dashboard/workbench)
 
 ---
 
